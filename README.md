@@ -1,1 +1,1 @@
-# Lesson-1.-GoogleTest
+# Lesson-1.-YandexTest
