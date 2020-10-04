@@ -1,1 +1,1 @@
-# Lesson-1.-YandexTest
+# Lesson 1. YandexTest
